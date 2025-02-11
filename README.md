@@ -5,8 +5,8 @@ The AI ​​in my program uses an algorithm based on Minimax to choose the opti
 
 Before installing, don't forget to download all modules pip install -r requirements.txt
 
-![Описание изображения](screen\screen1.png)
+![Описание изображения](screen/screen1.png)
 
 
 
-![Описание изображения](screen\screen2.png)
+![Описание изображения](screen/screen2.png)
